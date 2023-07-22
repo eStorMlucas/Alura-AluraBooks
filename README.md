@@ -5,7 +5,7 @@ Course provided by **Alura**, which has **Guilherme Lima** as an instructor,
 
 ## Preview 
 
-![ Site preview ](imagens/screenshot.jpg)
+![ Site preview ](imagens/screenshot.png)
 
 ## Differences bettwen my code
 
